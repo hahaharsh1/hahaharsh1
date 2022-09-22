@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hahaharsh_" target="blank"><img src="https://img.shields.io/twitter/follow/hahaharsh_?logo=twitter&style=for-the-badge" alt="hahaharsh_" /></a> </p>
 
-- 🔭 I’m currently working on **LAWER**
+- 🔭 I’m currently working on **LAWWR**
 
 - 🎓 I’m looking to collaborate on **C++ Projects**
 
